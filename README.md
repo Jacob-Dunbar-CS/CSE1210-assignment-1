@@ -1,6 +1,6 @@
 # CSE1210-assignment-1
 
-My URL:https://jacob-dunbar-cs.github.io/CSE1210-assignment-1/
+My URL:
 
 In this assignment you will be creating and customizing a web page. 
 
